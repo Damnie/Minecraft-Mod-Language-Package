@@ -691,7 +691,7 @@ tooltip.ThermalEvaporationValve=用于热力蒸馏塔的阀门，可以使热力
 tooltip.disassembler.vein=矿脉
 gui.confirm=确认
 tile.GasTankBasic.name=基础燃气储罐
-tile.BasicBlock.ThermalEvaporationValve.name==热力蒸馏阀门
+tile.BasicBlock.ThermalEvaporationValve.name=热力蒸馏阀门
 dye.pink=品红色
 tooltip.configurator.rotate=旋转
 item.tinDust.name=锡粉
